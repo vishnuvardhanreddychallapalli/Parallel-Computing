@@ -1,0 +1,5 @@
+*.o
+heat/mpi_heat
+master_worker/mpi_master_worker
+pingpong/
+
